@@ -1,2 +1,13 @@
-test_results.txt 
-src/input_normalizer.egg-info/ 
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+.env
+*.db
+*.log
+test_results.txt
